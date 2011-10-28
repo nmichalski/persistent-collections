@@ -1,3 +1,7 @@
+--------------------------
+| Persistent-Collections |
+--------------------------
+
 Implementations of Java collections interfaces that use the file system for storage (instead of memory).
 
 Useful for:
